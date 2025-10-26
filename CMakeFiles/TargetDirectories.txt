@@ -1,0 +1,6 @@
+/home/petro/stm32/max30205_1/CMakeFiles/max30205_1.dir
+/home/petro/stm32/max30205_1/CMakeFiles/edit_cache.dir
+/home/petro/stm32/max30205_1/CMakeFiles/rebuild_cache.dir
+/home/petro/stm32/max30205_1/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+/home/petro/stm32/max30205_1/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/home/petro/stm32/max30205_1/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
